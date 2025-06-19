@@ -36,3 +36,4 @@ PyQt6 (for GUI, in progress)
 
    or
   **File is already given**
+4. The last file (https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/shape_predictor_68_face_landmarks.dat)
