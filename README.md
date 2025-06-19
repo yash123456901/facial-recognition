@@ -9,19 +9,30 @@ It demonstrates key concepts like facial landmark detection, face encoding, imag
 Key Features:
 
 Real-time face detection and recognition
-
 Accurate matching with stored facial data
-
 User-friendly graphical interface (in progress)
-
 Modular design for future upgrades, such as emotion detection or multi-face support
 
 Technology Stack:
-
 Python
-
 OpenCV
-
 Dlib / Mediapipe / Face Recognition (based on implementation)
-
 PyQt6 (for GUI, in progress)
+
+1. **Install Python 3.10**
+   Download and install Python version 3.10 from the official [Python website](https://www.python.org/downloads/).
+
+2. **Install Required Python Modules**
+   Use `pip` to install the following modules:
+
+   ```bash
+   pip install opencv-python dlib numpy pickle-mixin pyttsx3
+   ```
+
+3. **Download Pre-trained Face Recognition Model**
+   Ensure that the file named **`dlib_face_recognition_resnet_model_v1.dat`** is present in the project directory.
+   You can download it from the official dlib model repository:
+   [http://dlib.net/files/dlib\_face\_recognition\_resnet\_model\_v1.dat.bz2](http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2)
+
+                                                     OR
+  **File is already given**
