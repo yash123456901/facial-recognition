@@ -34,5 +34,5 @@ PyQt6 (for GUI, in progress)
    You can download it from the official dlib model repository:
    [http://dlib.net/files/dlib\_face\_recognition\_resnet\_model\_v1.dat.bz2](http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2)
 
-                                                     OR
+   or
   **File is already given**
